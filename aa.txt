@@ -1,0 +1,14 @@
+Nombre: Bocassi
+
+Tablas
+
+Create table Ventas (Modelo Varchar(25) NOT NULL,Color Varchar(25) NOT NULL,Talla Varchar(25) NOT NULL,Cantidad Int NOT NULL,Codigo Varchar(25) NOT NULL,Fecha Varchar(100) NOT NULL);
+Create table Inventario (Modelo Varchar(25) NOT NULL,Color Varchar(25) NOT NULL,Talla Varchar(25) NOT NULL,Cantidad Int NOT NULL,Codigo Varchar(25) NOT NULL, Ubicacion Varchar(25) NOT NULL);
+Create table Zapatos (Modelo Varchar(25) NOT NULL,Color Varchar(25) NOT NULL,Talla Varchar(25) NOT NULL,Codigo Varchar(25) NOT NULL PRIMARY KEY);
+Create table Elementos (Tipo Varchar(50),Elemento Varchar(25) NOT NULL PRIMARY KEY);
+
+
+Andrebocassi
+dbbcssiandre2002
+2806:2f0:6020:5af4:4168:35f8:77ce:6c4
+BcssiAndRedB2002

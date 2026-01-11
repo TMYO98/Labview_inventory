@@ -1,0 +1,10 @@
+[Volume Id]
+DistributionGUID={A7F5D465-1655-4EEF-8A91-98D67DD5719E}
+DistPackageGUID={01DF9274-52AA-4468-8AD3-B8E176D55FD8}
+DistributionVersion=1.0.0
+DistributionType=MDF
+DistributionLanguage=9
+Volume=1
+TotalNumberOfVolumesInDistribution=1
+ExePath=Instalador_Inventario.exe
+UpdateInfoFile=supportfiles\updateInfo.xml
